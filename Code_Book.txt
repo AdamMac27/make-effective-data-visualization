@@ -1,0 +1,11 @@
+Code Book
+
+teamID- Database Key
+yearID- Year
+lgID- League Association
+franchID- More common Team Abreviation
+G- Games Played
+Playoffs- Playoff Picture Results
+DivWin- Binary Division Winners
+ATT- Cummulative Attendance
+ATT_Group- Grouping by Attendance
